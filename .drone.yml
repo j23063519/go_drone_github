@@ -10,7 +10,7 @@ steps:
   - name: build
     image: golang:1.19
     commands:
-      - echo build
+      - echo build test
 
   - name: test
     image: golang:1.19
