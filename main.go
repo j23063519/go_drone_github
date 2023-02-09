@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("test ci")
+	fmt.Println("test ip")
 }
